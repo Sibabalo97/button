@@ -1,0 +1,18 @@
+body {
+    background-color:burlywood;
+    text-align: center;
+}
+
+.imges img {
+    width: 300px;
+    height: 140px;
+    text-align: center;
+    margin: 150px;
+
+}
+.btn {
+    color: grey;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 30%;
+}
